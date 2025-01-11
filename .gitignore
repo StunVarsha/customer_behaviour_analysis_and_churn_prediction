@@ -1,0 +1,6 @@
+# Ignore the sensitive data files
+churn.csv
+customer.csv
+orders.csv
+products.csv
+promotions.csv
